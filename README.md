@@ -1,4 +1,3 @@
-<img align="center" alt="Coding" width="100%" src="https://www.altoros.com/blog/wp-content/uploads/2016/03/Blockchain-HyperLedge-InterConnect-IBM-v3.gif">
 <h1 align="center">Hi 👋, I'm M. Furqan Hameed</h1>
 <h3 align="center">A Passionate Full-stack Developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300">
